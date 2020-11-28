@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/airport-api/airport-api.iml" filepath="$PROJECT_DIR$/airport-api/airport-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/airport-core/airport-core.iml" filepath="$PROJECT_DIR$/airport-core/airport-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/airport-management.iml" filepath="$PROJECT_DIR$/.idea/airport-management.iml" />
+    </modules>
+  </component>
+</project>
